@@ -2,13 +2,15 @@
 
 🎓 Engineering Student
 
-🤖 Interested in AI/ML and Data Science
+🤖 Interested in AI/ML and Data Analytics
 
 💻 Skills:
 - Python
 - Machine Learning
 - Pandas
 - NumPy
+- Power BI
+- MS Excel
 - Scikit-learn
 - Git & GitHub
 
@@ -17,6 +19,5 @@
 - Customer Segmentation
 
 🌱 Currently Learning:
-- Data Structures & Algorithms
 - Machine Learning
 - Python
